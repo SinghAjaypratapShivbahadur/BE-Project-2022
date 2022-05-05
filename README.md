@@ -59,7 +59,3 @@ frame.process_video(file_path, 1,\
 *Detecting* *lane* *change* *automatically*
 
 
-
-
-## Ref:
-https://github.com/qqwweee/keras-yolo3
